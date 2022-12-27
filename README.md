@@ -1,8 +1,8 @@
 ### Oii!! eu sou o Danillo 👋
 
 - 🌱 Um mero garfanhoto no desenvolvimento front end
-- 💻 domino html e css e to aprendendo js
-- 📫 contato via email: danillodana@outlook.com
+- 💻 Domino html e css e to aprendendo js
+- 📫 Contato via email: danillodana@outlook.com
 - ⚡ Fun fact: sempre disposto a aprender mais
 
 <div>
