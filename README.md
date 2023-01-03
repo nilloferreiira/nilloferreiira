@@ -2,6 +2,7 @@
 
 - 🌱 Um mero garfanhoto no desenvolvimento front end
 - 💻 Domino html e css e to aprendendo js
+- 📚 Nível avançado em inglês
 - 📫 Contato via email: danillodana@outlook.com
 - ⚡ Fun fact: sempre disposto a aprender mais
 
