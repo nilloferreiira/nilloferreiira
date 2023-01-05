@@ -7,7 +7,7 @@
 - 📫 Contato via email: danillodana@outlook.com
 - ⚡ Fun fact: sempre disposto a aprender mais
 
-<div>
+<div style="display: flex;">
   <a href="https://github.com/nilloferreiira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nilloferreiira&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="456.922px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilloferreiira&layout=compact&langs_count=7&theme=onedark"/>
