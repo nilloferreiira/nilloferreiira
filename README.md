@@ -1,7 +1,8 @@
 ### Oii!! eu sou o Danillo 👋
 
-- 🌱 Um mero garfanhoto no desenvolvimento front end
-- 💻 Domino html e css e to aprendendo js
+- 🌱 Um mero garfanhoto na programação
+- 💻 minha principal área é o front-end, domino html e css e to aprendendo js
+- 🐍 python também está na minha lista para aprender então vou postar algumas coisinhas
 - 📚 Nível avançado em inglês
 - 📫 Contato via email: danillodana@outlook.com
 - ⚡ Fun fact: sempre disposto a aprender mais
