@@ -1,8 +1,8 @@
 ## Oii!! eu sou o Danillo 👋
 
 - 🌱 Um mero garfanhoto na programação
-- 💻 minha principal área é o front-end, domino html e css e to aprendendo js
-- 🐍 python também está na minha lista para aprender então vou postar algumas coisinhas
+- 🐍 python no momento é minha principal área de atuação
+- 💻 domino o básico do front-end, html e css. Meu foco atualmente está no back-end
 - 📚 Nível avançado em inglês
 - 📫 Contato via email: danillodana@outlook.com
 - ⚡ Fun fact: sempre disposto a aprender mais
