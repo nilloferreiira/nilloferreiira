@@ -1,8 +1,8 @@
 ## Oii!! eu sou o Danillo 👋
 
 - 🌱 Um mero garfanhoto na programação
-- 🐍 python no momento é minha principal área de atuação
-- 💻 domino o básico do front-end, html e css. Meu foco atualmente está no back-end
+- 🐍 Python no momento é minha principal área de atuação
+- 💻 Estou cursando ADS na faculdade
 - 📚 Nível avançado em inglês
 - 📫 Contato via email: danillodana@outlook.com
 - ⚡ Fun fact: sempre disposto a aprender mais
