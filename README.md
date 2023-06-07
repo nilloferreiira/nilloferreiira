@@ -1,7 +1,8 @@
 ## Oii!! eu sou o Danillo 👋
 
-- 🌱 Um mero garfanhoto na programação
-- 🐍 Python no momento é minha principal área de atuação
+- 🔥 Desenvolvedor FullStack
+- <img align="center" alt="Dan-Python" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python e Django
+- <img align="center" alt="Dan-React" height="20" width="25" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"> ReactJS
 - 💻 Estou cursando ADS na faculdade
 - 📚 Nível avançado em inglês
 - 📫 Contato via email: danillodana@outlook.com
@@ -13,12 +14,13 @@
 </div>
 -->
   <div style="display: inline_block"><br>
+  <img align="center" alt="Dan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dan-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Dan-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Dan-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Dan-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Dan-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
   
 </div>
   
