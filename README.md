@@ -5,7 +5,7 @@
 - <img align="center" alt="Dan-React" height="20" width="25" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"> ReactJS
 - 💻 Estou cursando ADS na faculdade
 - 📚 Nível avançado em inglês
-- 📫 Contato via email: nilloferreiira@gmail.com danillodana@outlook.com
+- 📫 Contato via email: nilloferreiira@gmail.com
 - ⚡ Fun fact: sempre disposto a aprender mais
 <!--
 <div align="center">
