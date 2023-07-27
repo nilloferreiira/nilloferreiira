@@ -5,7 +5,7 @@
 - <img align="center" alt="Dan-React" height="20" width="25" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"> ReactJS
 - 💻 Estou cursando ADS na faculdade
 - 📚 Nível avançado em inglês
-- 📫 Contato via email: danillodana@outlook.com
+- 📫 Contato via email: nilloferreiira@gmail.com danillodana@outlook.com
 - ⚡ Fun fact: sempre disposto a aprender mais
 <!--
 <div align="center">
@@ -27,7 +27,7 @@
   <div> 
  
   <a href="mailto:danillodana@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="mailto:nilloferreiira" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href="mailto:nilloferreiira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/danillo-ferreira-a91522269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
