@@ -1,8 +1,10 @@
 ## Oii!! eu sou o Danillo 👋
 
 - 🔥 Desenvolvedor FullStack
-- <img align="center" alt="Dan-Python" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python e Django
 - <img align="center" alt="Dan-React" height="20" width="25" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"> ReactJS
+- <img align="center" alt="Dan-React" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg"> NodeJS
+  
+- <img align="center" alt="Dan-Python" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python e Django
 - 💻 Estou cursando ADS na faculdade
 - 📚 Nível avançado em inglês
 - 📫 Contato via email: nilloferreiira@gmail.com
@@ -16,10 +18,11 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Dan-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Dan-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Dan-tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg">  
   <img align="center" alt="Dan-NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Dan-tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">  
+  <img align="center" alt="Dan-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Dan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Dan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">  
+  <img align="center" alt="Dan-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">  
 </div>
   
   ##
