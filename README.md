@@ -2,8 +2,8 @@
 
 - 🔥 Desenvolvedor FullStack
 - <img align="center" alt="Dan-React" height="20" width="25" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"> ReactJS
-- <img align="center" alt="Dan-React" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg"> NodeJS
-  
+- <img align="center" alt="Dan-Node" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg"> NodeJS
+- <img align="center" alt="Dan-PHP" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> PHP e Laravel
 - <img align="center" alt="Dan-Python" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python e Django
 - 💻 Estou cursando ADS na faculdade
 - 📚 Nível avançado em inglês
@@ -22,6 +22,9 @@
   <img align="center" alt="Dan-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Dan-NestJS" height="30" width="40" src="https://raw.githubusercontent.com/nestjs/nestjs.com/master/img/logo-small.svg">
   <img align="center" alt="Dan-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Dan-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Dan-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+ 
 </div>
   
   ##
