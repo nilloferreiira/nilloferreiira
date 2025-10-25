@@ -16,7 +16,7 @@
 </div>
 -->
   <div style="display: inline_block"><br>
-  <img align="center" alt="Dan-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Dan-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Dan-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Dan-tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg">  
   <img align="center" alt="Dan-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
