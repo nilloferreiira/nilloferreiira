@@ -1,35 +1,53 @@
-## Oii!! eu sou o Danillo 👋
+# 👋 Hi! I'm Danillo Ferreira
 
-- 🔥 Desenvolvedor FullStack
-- <img align="center" alt="Dan-React" height="20" width="25" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"> ReactJS
-- <img align="center" alt="Dan-Node" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg"> NodeJS
-- <img align="center" alt="Dan-PHP" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> PHP e Laravel
+🔥 **Full Stack Developer** passionate about building modern web applications.
+I have over a year of professional experience working with **PHP and Laravel** in a startup environment, while also creating **personal projects with JavaScript**, especially **Node.js**, **React**, and **Next.js**.
 
-- 💻 Estou cursando ADS na faculdade
-- 📚 Nível avançado em inglês
-- 📫 Contato via email: nilloferreiira@gmail.com
-- ⚡ Fun fact: sempre disposto a aprender mais
-<!--
-<div align="center">
-  <a href="https://github.com/nilloferreiira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nilloferreiira&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-</div>
--->
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Dan-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="Dan-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Dan-tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg">  
-  <img align="center" alt="Dan-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Dan-NestJS" height="30" width="40" src="https://raw.githubusercontent.com/nestjs/nestjs.com/master/img/logo-small.svg">
-  <img align="center" alt="Dan-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg">
+---
+
+### 💻 Technologies I work with:
+
+🧠 **Back-end:** PHP · Laravel · Node.js · Fastify · NestJS <br/>
+🎨 **Front-end:** React · Next.js · TypeScript · TailwindCSS <br/>
+📱 **Mobile:** React Native 
+
+---
+
+### 🎓 About me:
+
+* 📚 Studying **Analysis and Systems Development**
+* 💬 Advanced level in **English**
+* ⚡ Curious, creative, and always ready for new challenges
+
+---
+
+### 📫 Contact:
+
+📧 **Email:** [nilloferreiira@gmail.com](mailto:nilloferreiira@gmail.com) <br/>
+🌐 **LinkedIn:** [linkedin.com/in/danilloferreira](https://linkedin.com/in/danilloferreira)
+
+---
+
+### 🚀 Tech Stack:
+
+`PHP` · `Laravel` · `TypeScript` · `Node.js` · `Fastify` · `React` · `Next.js` · `TailwindCSS` · `Postgres` · `MySQL` 
+
+<!-- <div style="display: flex;"><br>
   <img align="center" alt="Dan-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Dan-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
- 
-</div>
+
+  <img align="center" alt="Dan-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Dan-NestJS" height="30" width="40" src="https://raw.githubusercontent.com/nestjs/nestjs.com/master/img/logo-small.svg">
+  <img align="center" alt="Dan-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Dan-Fastify" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original.svg">
   
-  ##
   
-  <div> 
-  <a href="mailto:nilloferreiira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/danillo-ferreira-a91522269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img align="center" alt="Dan-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="Dan-tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg">  
+  <img align="center" alt="Dan-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+</div> -->
+  
+
+  
+--- 
 </div>
