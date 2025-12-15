@@ -15,7 +15,7 @@ I have over a year of professional experience working with **PHP and Laravel** i
 
 ### 🎓 About me:
 
-* 📚 Studying **Analysis and Systems Development**
+* 📚 **Analysis and Systems Development**
 * 💬 Advanced level in **English**
 * ⚡ Curious, creative, and always ready for new challenges
 
