@@ -7,7 +7,7 @@ I have over a year of professional experience working with **PHP and Laravel** i
 
 ### 💻 Technologies I work with:
 
-🧠 **Back-end:** PHP · Laravel · Node.js · Fastify · NestJS <br/>
+🧠 **Back-end:**  Node.js · Fastify · NestJS · PHP · Laravel <br/>
 🎨 **Front-end:** React · Next.js · TypeScript · TailwindCSS <br/>
 📱 **Mobile:** React Native 
 
